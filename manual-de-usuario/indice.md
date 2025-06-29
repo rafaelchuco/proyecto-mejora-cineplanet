@@ -171,9 +171,7 @@
 
 ### 🔗 Enlaces Externos
 - **🎨 [Prototipo Figma](https://www.figma.com/proto/QJ3h36nyhVtHRiBPRNNjZH/Untitled?node-id=107-1679&p=f&t=UkvGg56056DcIGnJ-1&scaling=min-zoom&content-scaling=fixed&page-id=107%3A808&starting-point-node-id=107%3A1679&show-proto-sidebar=1)**
-- **📊 [Dashboard Principal](https://monitoring.cineplanet.com.pe/payments)**
-- **📚 [Base de Conocimiento](https://kb.cineplanet.com.pe)**
-- **🎓 [Centro de Capacitación](https://training.cineplanet.com.pe)**
+
 
 ### 📖 Documentación Técnica
 - **🔧 API Documentation:** `docs.cineplanet.com.pe/api`
